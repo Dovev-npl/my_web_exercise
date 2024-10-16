@@ -23,13 +23,14 @@
 > "The sin of doing nothing is the deadliest of all the seven sins. It has been said that for evil men to accomplish their purpose it is only necessary that good men should do nothing."
 
 ### turn the words separated by a comma into a list.
-*Milk
-*Egg
-*Salmon
-*Butter
+-Milk
+-Egg
+-Salmon
+-Butter
 
 ### insert the necessary number of spaces to make the poem render correctly:
-Do.I.contradict.myself?··
-Very.well.then.I.contradict.myself,··
-(I.am.large,.I.contain.multitudes.)
+Do I contradict myself?  
+Very well then I contradict myself,  
+(I am large, I contain multitudes.)
+
 
